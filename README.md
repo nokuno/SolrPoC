@@ -1,0 +1,2 @@
+# SolrPoC
+Solr PoC
